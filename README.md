@@ -107,4 +107,4 @@ The dashboard includes:
 ## Dashboard
 
 Dashboard Link:
-[Add Looker Studio URL Here]
+[https://datastudio.google.com/reporting/b43adf87-25b9-4ebd-89c3-e6481658d99c]
